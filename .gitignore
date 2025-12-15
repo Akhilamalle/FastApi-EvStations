@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+ev_stations.db
+dist/
+*.zip
+/.venv

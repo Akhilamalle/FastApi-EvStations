@@ -1,0 +1,136 @@
+{
+  "info": {
+    "_postman_id": "ev-stations-api-collection",
+    "name": "EV Stations API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8000",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/healthz",
+          "host": ["{{baseUrl}}"],
+          "path": ["healthz"]
+        }
+      }
+    },
+    {
+      "name": "List Stations",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/stations/",
+          "host": ["{{baseUrl}}"],
+          "path": ["stations", ""]
+        }
+      }
+    },
+    {
+      "name": "Create Station",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Test Station\",\n  \"town\": \"Testtown\",\n  \"country\": \"TS\",\n  \"lat\": 10.0,\n  \"lon\": 20.0\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/stations/",
+          "host": ["{{baseUrl}}"],
+          "path": ["stations", ""]
+        }
+      }
+    },
+    {
+      "name": "Get Station by ID",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/stations/:id",
+          "host": ["{{baseUrl}}"],
+          "path": ["stations", ":id"],
+          "variable": [{"key":"id","value":"1"}]
+        }
+      }
+    },
+    {
+      "name": "Update Station",
+      "request": {
+        "method": "PUT",
+        "header": [ { "key": "Content-Type", "value": "application/json" } ],
+        "body": { "mode": "raw", "raw": "{ \"title\": \"Updated\" }" },
+        "url": { "raw": "{{baseUrl}}/stations/:id", "host": ["{{baseUrl}}"], "path": ["stations", ":id"], "variable": [{"key":"id","value":"1"}] }
+      }
+    },
+    {
+      "name": "Delete Station",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": { "raw": "{{baseUrl}}/stations/:id", "host": ["{{baseUrl}}"], "path": ["stations", ":id"], "variable": [{"key":"id","value":"1"}] }
+      }
+    },
+    {
+      "name": "Analytics - Count",
+      "request": { "method": "GET", "header": [], "url": { "raw": "{{baseUrl}}/analytics/count", "host": ["{{baseUrl}}"], "path": ["analytics", "count"] } }
+    },
+    {
+      "name": "Analytics - Count By Country",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/analytics/count_by_country?limit=10",
+          "host": ["{{baseUrl}}"],
+          "path": ["analytics", "count_by_country"],
+          "query": [{"key":"limit","value":"10"}]
+        }
+      }
+    },
+    {
+      "name": "Analytics - Nearest",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/analytics/nearest?lat=52.52&lon=13.405&radius_km=10&limit=5",
+          "host": ["{{baseUrl}}"],
+          "path": ["analytics", "nearest"],
+          "query": [
+            {"key":"lat","value":"52.52"},
+            {"key":"lon","value":"13.405"},
+            {"key":"radius_km","value":"10"},
+            {"key":"limit","value":"5"}
+          ]
+        }
+      }
+    },
+    {
+      "name": "Analytics - By Operator",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/analytics/by_operator?operator=Electra",
+          "host": ["{{baseUrl}}"],
+          "path": ["analytics", "by_operator"],
+          "query": [{"key":"operator","value":"Electra"}]
+        }
+      }
+    }
+  ]
+}
