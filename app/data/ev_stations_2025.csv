@@ -1,0 +1,45 @@
+id,title,address,town,state,postcode,country,lat,lon,operator,status,num_connectors,connector_types,date_added
+462769,Electra - Wambrechies - Volfoni,81 Av. Clément Ader,Wambrechies,,59118,FR,50.6856527479799,3.0624104228837723,Electra,Operational,2,CCS (Type 2)|Type 2 (Socket Only),2025-11-02 09:58:00+00:00
+462768,Electra - Tourcoing - Action,185 rue du Touquet,Tourcoing,,59200,FR,50.723170847779386,3.1806363703025227,Electra,Operational,3,CCS (Type 2)|CHAdeMO|Type 2 (Socket Only),2025-11-02 09:55:00+00:00
+462767,Electra - Bondues - Sure Hotel by Best Western Lille Tourcoing,3 Av. Henri Becquerel,Bondues,,59910,FR,50.722535304716985,3.1294960074308165,Electra,Operational,2,CCS (Type 2)|Type 2 (Socket Only),2025-11-02 09:50:00+00:00
+462766,Electra - Bousbecque - Intermarché,Rue Auger,Bousbecque,,59166,FR,50.77013919273634,3.0834544961079473,Electra,Operational,2,CCS (Type 2)|Type 2 (Socket Only),2025-11-02 09:46:00+00:00
+462765,Electra - Halluin - Intermarché,Boulevard de Roncq,Halluin,,59250,FR,50.769938069594645,3.1240298745922246,Electra,Operational,2,CCS (Type 2)|Type 2 (Socket Only),2025-11-02 09:42:00+00:00
+462763,Ayunt. El Palau d'Anglesola,El Palau d'Anglesola,El Palau d'Anglesola,,,ES,41.6485021075361,0.8768075184850659,eTecnic,Operational,1,Type 2 (Socket Only),2025-11-02 07:14:00+00:00
+462762,Energia Nufri,Mollerusa,Mollerusa,,,ES,41.640456638661874,0.8866282164026416,eTecnic,Operational,1,CCS (Type 2),2025-11-02 07:08:00+00:00
+462761,Hotel Jardí,Mollerusa,Mollerusa,,,ES,41.631459017537054,0.896504733154643,(Business Owner at Location),Operational,1,Type 2 (Socket Only),2025-11-02 07:05:00+00:00
+462760,Ayunt. Miralcamp,Miralcamp,Miralcamp,,,ES,41.606142794580705,0.881104052848741,eTecnic,Operational,1,Type 2 (Socket Only),2025-11-02 07:01:00+00:00
+462759,Ayunt. Arbeca,Arbeca,Arbeca,,,ES,41.542112663876,0.924948337314845,eTecnic,Operational,1,Type 2 (Socket Only),2025-11-02 06:59:00+00:00
+462744,Electra - Fouquières-les-Bethune - Boulangerie,Zone actipolis,Fouquières-les-Bethune,,62232,FR,50.511587298815414,2.6209277841594485,Electra,Operational,2,CCS (Type 2)|Type 2 (Socket Only),2025-11-02 00:06:00+00:00
+462743,Electra - Le Touquet-Paris-Plage - Hôtel Ibis,4 avenue Louison Bobet,Le Touquet-Paris-Plage,,62520,FR,50.51602001141006,1.5787738531715831,Electra,Operational,2,CCS (Type 2)|Type 2 (Socket Only),2025-11-02 00:00:00+00:00
+462742,Electra - Calais - Burger King,124 avenue Antoine de Saint-Exupéry,Calais,,62100,FR,50.94549670693155,1.8981091240312935,Electra,Operational,2,CCS (Type 2)|Type 2 (Socket Only),2025-11-01 23:53:00+00:00
+462735,Hotel B&B Tarragona Valls,Valls,Valls,,,ES,41.299308869916615,1.2615383473532802,(Business Owner at Location),Operational,1,Type 2 (Socket Only),2025-11-01 19:34:00+00:00
+462734,Tesla Supercharger Sévérac-d'Aveyron,Aire de l'Aveyron,Sévérac-d'Aveyron,,12150,FR,44.32906284511972,3.0803441121574906,Tesla (including non-tesla),Operational,1,CCS (Type 2),2025-11-01 19:30:00+00:00
+462733,Tesla Supercharger Sanilhac,CréaVallée Sud la Couture,Sanilhac,,24660,FR,45.13601896888832,0.7006117079748719,Tesla (including non-tesla),Operational,1,CCS (Type 2),2025-11-01 19:27:00+00:00
+462732,Tesla Supercharger Ruffec,Lieudit « Champ de barbe jaune »,Ruffec,,16700,FR,46.03459569181399,0.18023185140600617,Tesla (including non-tesla),Operational,1,CCS (Type 2),2025-11-01 19:20:00+00:00
+462731,Tesla Supercharger Lagord,Avenue du Fief Rose,Lagord,,17140,FR,46.17485879524952,-1.1701379426496032,Tesla (including non-tesla),Operational,1,CCS (Type 2),2025-11-01 19:15:00+00:00
+462730,Cavas Pares Balta,Penedes,Penedes,,,ES,41.369095042729526,1.6558776364411187,(Business Owner at Location),Operational,1,Type 2 (Socket Only),2025-11-01 19:14:00+00:00
+462729,Tesla Supercharger Porto-Vecchio,T10,Porto-Vecchio,,20137,FR,41.57086650689254,9.273782448109387,Tesla (including non-tesla),Operational,1,CCS (Type 2),2025-11-01 19:12:00+00:00
+462728,Tesla Supercharger Magnant,D443,Magnant,,10110,FR,48.1807124359153,4.434366644283614,Tesla (including non-tesla),Operational,1,CCS (Type 2),2025-11-01 18:55:00+00:00
+462727,Tesla Supercharger Les Sables-d'Olonne,87 Av. Francois Mitterrand,Les Sables-d'Olonne,,85340,FR,46.51376963361935,-1.7770465726061957,Tesla (including non-tesla),Operational,1,CCS (Type 2),2025-11-01 18:52:00+00:00
+462726,Tesla Supercharger Falaise,2 rue Louis Rochet,Falaise,,14700,FR,48.9073067633619,-0.2069726228851323,Tesla (including non-tesla),Operational,1,CCS (Type 2),2025-11-01 18:49:00+00:00
+462725,Tesla Supercharger Artix,51 Rue des Écureuils,Artix,,64170,FR,43.39285785077698,-0.5553973636018554,Tesla (including non-tesla),Operational,1,CCS (Type 2),2025-11-01 18:41:00+00:00
+462724,Tesla Supercharger Agde,Bd Maurice Pacul,Agde,,34300,FR,43.29842920680102,3.472309232591897,Tesla (including non-tesla),Operational,1,CCS (Type 2),2025-11-01 18:37:00+00:00
+462722,Ayunt. Albinyana,Les Peces,Lalbinyana,,,ES,41.252653951048586,1.503785094817772,(Unknown Operator),Operational,1,Type 2 (Socket Only),2025-11-01 18:12:00+00:00
+462721,Tesla Supercharger Aix-en-Provence - Beaumanoir,Rue Marcel Arnaud,Aix-en-Provence,,13100,FR,43.513584144104584,5.466918055071346,Tesla (including non-tesla),Operational,1,CCS (Type 2),2025-11-01 18:02:00+00:00
+462720,Ayunt. Vilabella,Vilabella,Vilabella,,,ES,41.24847535929064,1.3307544213976144,eTecnic,Operational,1,Type 2 (Socket Only),2025-11-01 17:50:00+00:00
+462719,Ayunt. Salomó,Salomó,Salomó,,,ES,41.230059887693244,1.376109386752546,eTecnic,Operational,1,Type 2 (Socket Only),2025-11-01 17:49:00+00:00
+462718,Ayunt. La Nou de Gaià,La Nou de Gaià,La Nou de Gaià,,,ES,41.181981897314415,1.3732790332641116,eTecnic,Operational,1,Type 2 (Socket Only),2025-11-01 17:48:00+00:00
+462717,Camping Las Palmeras Zona Bungalows,Solimar,Tarragona,,,ES,41.13052895776218,1.318220638497678,(Business Owner at Location),Operational,1,Type 2 (Socket Only),2025-11-01 17:46:00+00:00
+462716,Ayunt. Els Pallaresos,Els Pallaresos,Els Pallaresos,,,ES,41.16836904425389,1.2741055846042855,(Unknown Operator),Operational,1,Type 2 (Socket Only),2025-11-01 17:44:00+00:00
+462715,Repsol Petroleo Visitantes,Tarragona,Tarragona,,,ES,41.17189095625409,1.2264916359336553,Repsol - Ibil (ES),Operational,1,Type 2 (Socket Only),2025-11-01 17:42:00+00:00
+462714,Ayto. Vilallonga del Camp,Vilallonga del Camp,Vilallonga del Camp,,,ES,41.208907125106464,1.2033020639570395,eTecnic,Operational,1,Type 2 (Socket Only),2025-11-01 17:39:00+00:00
+462713,Ayunt. d'El Pla de Santa Maria,El Pla de Santa Maria,El Pla de Santa Maria,,,ES,41.36567800553598,1.2883674221168349,(Unknown Operator),Operational,1,Type 2 (Socket Only),2025-11-01 17:36:00+00:00
+462712,Ayunt. d'El Pla de Santa Maria - Piscina Municipal,Ayunt. d'El Pla de Santa Maria,Ayunt. d'El Pla de Santa Maria,,,ES,41.363112829270534,1.2926158859520456,(Unknown Operator),Operational,1,Type 2 (Socket Only),2025-11-01 17:35:00+00:00
+462710,El Pont d'Armentera,El Pont d'Armentera,El Pont d'Armentera,,,ES,41.384075227782205,1.3629282492947823,(Unknown Operator),Operational,1,Type 2 (Socket Only),2025-11-01 17:32:00+00:00
+462709,Ayunt. Blancafort Piscina Municipal,Blancafort,Blancafort,,,ES,41.439855108619355,1.1591714786642342,eTecnic,Operational,1,Type 2 (Socket Only),2025-11-01 17:30:00+00:00
+462703,Enel Conad,Strada Malagoli 23,Reggiolo,RE,,IT,44.917512,10.798907,Enel X,Operational,1,CCS (Type 2),2025-11-01 14:50:00+00:00
+462702,Tesla Supercharger Valence Sud - Chemin de la Sonacotral,97 Chemin de la Sonacotral,Valence,,26000,FR,44.90361631160624,4.879962490338016,Tesla (including non-tesla),Operational,1,CCS (Type 2),2025-11-01 14:42:00+00:00
+462701,Parking Torroja Tarragona,Tarragona,Tarragona,,,ES,41.12064322509218,1.2618287643850863,(Business Owner at Location),Operational,1,Type 2 (Socket Only),2025-11-01 11:52:00+00:00
+462700,Interparking Hispania URV,Tarragona,Tarragona,,,ES,41.12321631788669,1.2496752369665955,(Business Owner at Location),Operational,1,Type 2 (Socket Only),2025-11-01 11:48:00+00:00
+462698,Puerto Deportivo Tarragona,Tarragona,Tarragona,,,ES,41.10818354878461,1.251044179111044,Electromaps,Operational,2,Type 2 (Socket Only)|CEE 7/4 - Schuko - Type F,2025-11-01 11:40:00+00:00
+462697,Puerto Deportivo Tarragona,Tarragona,Tarragona,,,ES,41.10942193537505,1.253384966493968,Electromaps,Operational,1,Type 2 (Socket Only),2025-11-01 11:39:00+00:00
